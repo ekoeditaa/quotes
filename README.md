@@ -1,9 +1,8 @@
-# vue-cli
+# Quotes
 
-> A Vue.js project
+> A Vue.js side project to practice components communication and bootstrap styling
 
-## Build Setup
-
+## Getting Started
 ``` bash
 # install dependencies
 npm install
@@ -14,6 +13,5 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# quotes
+## Credits
+[Vue.js](https://vuejs.org/) - Framework used
